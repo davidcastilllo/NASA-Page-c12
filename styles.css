@@ -1,0 +1,40 @@
+body {
+display: flex;
+align-items: center;
+flex-direction: column;
+font-family: sans-serif;
+line-height: 1.7em;
+color: #838383;
+font-size: small;
+}
+
+img {
+  width: 850px;
+  margin: 25px;
+}
+
+section {
+  height: 324px;
+  width: 850px;
+  background-color: #E6E6E6;
+  display: flex;
+}
+
+div {
+  width: 270px;
+  padding: 20 25px;
+}
+
+span {
+  font-weight: 900;
+  color: black;
+  font-size: medium;
+}
+
+.send {
+  background-color: #4D4D4D;
+  color: white;
+  height: 30px;
+  width: 70px;
+  font-size: large;
+}
